@@ -66,4 +66,6 @@ The Simple Synchronous RAM module was successfully designed and simulated using 
 
 ## Output
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/938172e5-2efb-4067-b7be-557837296ec8" />
+
 
